@@ -1,4 +1,4 @@
-Question :-
+Question: 175. Combine Two Tables
 
 Table: Person
 +-------------+---------+
